@@ -1,14 +1,14 @@
-import {connect} from 'react-redux'
-import Header from "../components/Header";
+// import {connect} from 'react-redux'
+// import Header from "../components/Header";
 
-const mapStateToProp = state =>({
-      data:state.cardItems
-})
+// const mapStateToProp = state =>({
+//       data:state.cardItems
+// })
 
-const mapDispatchToProps = dispatch  => ({
+// const mapDispatchToProps = dispatch  => ({
     
-})
+// })
 
-//export default Home
+// //export default Home
 
-export default connect(mapStateToProp,mapDispatchToProps)(Header)
+//  export default connect(mapStateToProp,mapDispatchToProps)(Header)
